@@ -7,6 +7,9 @@
 
 Welcome to **ShakeEye**, a Python-based application that applies **real-time visual effects** to your webcam feed! Featuring a clean graphical interface with a neon green theme, ShakeEye allows you to experiment with effects like **"Finger Drawing"**, where you can draw on the screen using hand gestures. The processed feed can be sent to a **virtual webcam**, enabling use in apps like Zoom, OBS, and more.
 
+![Captura de ecrã 2025-05-07 205434](https://github.com/user-attachments/assets/10d068ad-de7c-463c-8914-3d54d5fe7406)
+
+
 ---
 
 ## ✨ Features
